@@ -47,4 +47,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          external_repository: OpenCPG/opencpg.github.io
           publish_dir: ./output
