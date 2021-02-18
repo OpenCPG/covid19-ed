@@ -1,8 +1,8 @@
 {
  "package-id" : "org.opencpg.covid19.ed.sc",
- "title" : "Your User Friendly Name for MyContentIG Here",
+ "title" : "ACEP Emergency Department COVID-19 Severity Classification",
  "canonical" : "http://opencpg.org/covid19/fhir/covid19-ed-sc",
- "introduction" : "The introduction that should appear in the FHIR IG registry",
+ "introduction" : "Implementation guide for an Emergency Department COVID-19 Severity Classification and Disposition guideline defined by the American College of Emergency Physicians (ACEP).",
  "list" : [{
   "version" : "current",
   "desc" : "Continuous Integration Build (latest in version control)",
