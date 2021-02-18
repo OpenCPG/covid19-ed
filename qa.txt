@@ -3,7 +3,7 @@
 
 err = 22, warn = 2, info = 11
 IG Publisher Version: 1.1.59
-Generated Thu Feb 18 02:44:47 UTC 2021. FHIR version 4.0.1 for org.opencpg.covid19.ed.sc#0.1.0 (canonical = http://opencpg.org/fhir/covid19.ed.sc)
+Generated Thu Feb 18 03:08:45 UTC 2021. FHIR version 4.0.1 for org.opencpg.covid19.ed.sc#0.1.0 (canonical = http://opencpg.org/fhir/covid19.ed.sc)
 
  Build Errors : 0 / 0 / 0
  /github/workspace/input/covid19-ed-sc : 0 / 0 / 1

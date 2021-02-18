@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
   "fhirVersion": "[4.0.1]",
-  "date": "20210218024357",
+  "date": "20210218030758",
   "name": "org.opencpg.covid19.ed.sc"
 }
