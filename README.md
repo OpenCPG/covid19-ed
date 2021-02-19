@@ -4,7 +4,7 @@ COVID-19 Emergency Department Severity Classification and Disposition Recommenda
 
 ## Publication
 
-This ImplementationGuide is published in the following locations:
+This Implementation Guide is published in the following locations:
 
 * Continuous Build: https://opencpg.github.io/covid19-ed/
 * QA Report: https://opencpg.github.io/covid19-ed/qa.html
